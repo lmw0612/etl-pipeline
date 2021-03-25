@@ -1,8 +1,7 @@
 # etl-pipeline
 
 ## Notes
-The `requirements.txt` file should list all Python libraries that your notebooks
-depend on, and they will be installed using:
+The `requirements.txt` lists all Python libraries that was used to create this script
 
 ```
 pip install -r requirements.txt
